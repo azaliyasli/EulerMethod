@@ -1,8 +1,8 @@
 # 🖥️ Euler's Method in C++
 ## ✨ Features
-- 🧮 Numerical solution using Euler's method
-- 🔢 Step size `h = 0.01`
-- 📜 Prints the computed values of `y` for each step
+- Numerical solution using Euler's method
+- Step size `h = 0.01`
+- Prints the computed values of `y` for each step
 
 ## 📂 Code Explanation
 - `function(double y)` → returns the derivative `-y`
