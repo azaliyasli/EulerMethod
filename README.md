@@ -1,5 +1,4 @@
 # 🖥️ Euler's Method in C++
-
 ---
 
 ## ✨ Features
