@@ -1,6 +1,4 @@
 # 🖥️ Euler's Method in C++
----
-
 ## ✨ Features
 - 🧮 Numerical solution using Euler's method
 - 🔢 Step size `h = 0.01`
